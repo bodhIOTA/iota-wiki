@@ -4,18 +4,30 @@ description: A collection of fact's to conquer common misunderstandings and fals
 ---
 
 
-# Heading 1 (Page Title)
+# There's a lot of misinformation that gets spread about IOTA, both intentionally and unintentionally. Here are the facts as of 9/17/2021. 
 
 content - introduction to the topic
 
+## IOTA is centralized! IOTA has a coordinator!
 
-## Heading 2 (Sub topic 1)
+content
+
+## IOTA has a poor management team! IOTA's leadership has lied to the community. 
 
 content 
 
-## Heading 2 (Sub topic 2)
+## IOTA was hacked!
 
 content
+
+## Because there are no fees, the IOTA token has no value!
+
+content 
+
+## IOTA isn't on enough exchanges. There must be something wrong with it!
+
+content 
+
 
 
 
